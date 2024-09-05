@@ -1,0 +1,15 @@
+{
+  "name": "first_docker_image",
+  "version": "1.0.0",
+  "description": "first docker app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "git": "^0.1.5"
+  }
+}
